@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Space-Facts-API/static/css/main.fb491df6.css",
+    "main.js": "/Space-Facts-API/static/js/main.32595984.js",
+    "static/js/453.6bdc0e1d.chunk.js": "/Space-Facts-API/static/js/453.6bdc0e1d.chunk.js",
+    "static/media/pillars.webp": "/Space-Facts-API/static/media/pillars.783dbb09037648ef5700.webp",
+    "index.html": "/Space-Facts-API/index.html",
+    "main.fb491df6.css.map": "/Space-Facts-API/static/css/main.fb491df6.css.map",
+    "main.32595984.js.map": "/Space-Facts-API/static/js/main.32595984.js.map",
+    "453.6bdc0e1d.chunk.js.map": "/Space-Facts-API/static/js/453.6bdc0e1d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb491df6.css",
+    "static/js/main.32595984.js"
+  ]
+}
